@@ -4,7 +4,6 @@
 - 💻 Passionate about **Front-end, Full-Stack, and Game Development**  
 - 🎮 Currently exploring **game engines** and creating exciting projects!  
 
----
 <p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kuromaple&show_icons=true&locale=en&layout=compact&theme=dark" 
