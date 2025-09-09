@@ -2,7 +2,7 @@
 
 - 🎓 **Computer Science Graduate** — University of Waterloo  
 - 💻 Passionate about **Frontend, Full-Stack, and Game Development**  
-- 🎮 Currently exploring **C++ Game Development** and **C&#35; Microservices**  
+- 🎮 Currently exploring **Game Development**, **C&#35; Microservices** and **Next.js** 
 
 <p align="left">
   <img 
