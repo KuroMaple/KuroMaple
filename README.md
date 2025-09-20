@@ -1,15 +1,11 @@
 <h1 align="left">Hey, I'm Hassan! 👋</h1>
 
-- 🎓 **Computer Science Graduate** — University of Waterloo  
-- 💻 Passionate about **Frontend, Full-Stack, and Game Development**  
-- 🎮 Currently exploring **Game Development**, **C&#35; Microservices** and **Next.js** 
+- **Computer Science Graduate** — University of Waterloo  
+- Passionate about **Software Engineering and Game Development**  
+- Driven by crafting **elegant, reusable, and maintainable software** that solves real-world problems  
+- Currently exploring **Python**, **C# Microservices**, and **Next.js**
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kuromaple&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="Most used languages by kuromaple" 
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
 
 <p align="left"> 
   <img 
