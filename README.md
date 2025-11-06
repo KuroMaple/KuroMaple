@@ -2,7 +2,6 @@
 
 - **Computer Science Graduate** — University of Waterloo  
 - Passionate about **Software Engineering and Game Development**  
-- Driven by crafting **elegant, reusable, and maintainable software** that solves real-world problems  
 - Currently exploring **C++ Game Dev**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
