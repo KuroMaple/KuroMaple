@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Hassan! 👋</h1>
+<h1 align="left">Hello World, I'm Hassan AKA KuroMaple </h1>
 
 - **Computer Science Graduate** from the University of Waterloo  
 - Passionate about **Software Engineering and Game Development**  
