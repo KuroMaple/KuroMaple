@@ -1,8 +1,8 @@
 <h1 align="left">Hey, I'm Hassan! 👋</h1>
 
-- **Computer Science Graduate** — University of Waterloo  
+- **Computer Science Graduate** from the University of Waterloo  
 - Passionate about **Software Engineering and Game Development**  
-- Currently exploring **C++ Game Dev**
+- Currently exploring **C++ Performance-Driven Programming**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
 
