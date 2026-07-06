@@ -15,19 +15,24 @@
 ### A little more about me...  
 
 ```cpp
-struct Developer {
-    std::string alias;
-    std::vector<std::string> stack;
-    std::vector<std::string> tools;
-    std::vector<std::string> interests;
-};
+auto hassan = Developer(
+    // Alias
+    "KuroMaple",
 
-inline Developer hassan {
-    "KuroMaple",                     // alias
-    { "C++", "TypeScript", "C#", "HTML", "CSS" }, // languages
-    { "Unreal Engine", "React", "Redux", "Node", "Docker" }, // tools
-    { "Software Engineering", "Game Dev", "Graphics" } // interests
-};
+     // Core development stack
+    { "C++", "TypeScript", "C#", "HTML", "CSS" },
+
+    // Tools and frameworks used in projects
+    { "Unreal Engine", "React", "Redux", "Node.js", "Docker", "Git" },
+
+    // Areas of focus and interest
+    {
+        "Game Development (real-time systems, gameplay programming)",
+        "Graphics Programming (rendering, simulation)",
+        "Software Engineering (full-stack systems, scalable applications)",
+        "Interactive Experiences (UI/UX, web apps, tools)"
+    }
+);
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
