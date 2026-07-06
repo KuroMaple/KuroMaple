@@ -28,7 +28,7 @@ auto hassan = Developer(
     { "C++", "TypeScript", "C#", "HTML", "CSS" },
 
     // Tools/Frameworks 
-    { "Unreal Engine", "React", "Vue", "ASP.NET", "Node.js", "Docker", "Git" },
+    { "Unreal Engine", "React", "Vue", "ASP.NET", "Node.js", "Docker" },
 
     // Areas of interest
     {
