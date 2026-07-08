@@ -40,9 +40,11 @@ auto hassan = Developer(
 );
 ```
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark) 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anVlaTgycGN2bjN6MnM2aDUyNmI0MHFrMDN1ZmM1dXFhMGJwOXJhdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/REdwvyQtWeRMs6GUq9/giphy.gif" width="150">
 <img src="https://media.giphy.com/media/P7IMPyMQoEtytT3Y7k/giphy.gif" width="150">
+<img src="https://github.com/user-attachments/assets/400ec89b-519d-445b-a4ed-402b2be35a74" width="75" />
+
 <p align="left"> 
   <img 
     src="https://komarev.com/ghpvc/?username=kuromaple&label=Profile%20Views&color=0e75b6&style=flat" 
