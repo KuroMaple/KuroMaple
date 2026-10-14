@@ -43,9 +43,11 @@ auto hassan = Developer(
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kuromaple&layout=compact&theme=dark)
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anVlaTgycGN2bjN6MnM2aDUyNmI0MHFrMDN1ZmM1dXFhMGJwOXJhdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/REdwvyQtWeRMs6GUq9/giphy.gif" width="150">
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img 
     src="https://komarev.com/ghpvc/?username=kuromaple&label=Profile%20Views&color=0e75b6&style=flat" 
     alt="Profile views badge" 
   /> 
-</p>
+</p> -->
+
+![Profile views](https://views.igorkowalczyk.dev/api/badge/Kuromaple?style=flat)
